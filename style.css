@@ -3,11 +3,11 @@
 
 header {background-color: #ecebeb;
         text-align: center;}
-#pic {display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 175px;}
+#pic {height: 175px;
+}
+/* goes in bonus 
+hr {border-color: peru;}
+*/
 h2 {color: peru;}
-hr {color: peru;}
 footer {font-size: smaller;
         text-align: center;}
