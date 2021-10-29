@@ -1,16 +1,24 @@
 /* just noticed a thin white line on top - to fix */
 /* not so sure those are quite the right colors*/
 
-header {background-color: #ecebeb;
+header {
+        background-color: #ecebeb;
         text-align: center;
-        margin-top: 0px;
+}
+#pic {
+        height: 175px;
+}
+h2 {
+        color: peru;
+}
+hr {
+        border-color: peru;
+}
+footer {
+        font-size: smaller;
+        text-align: center;
+}
+body {
         margin-left: 20%;
-        margin-right: 20%;}
-#pic {display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 175px;}
-h2 {color: peru;}
-hr {color: peru;}
-footer {font-size: smaller;
-        text-align: center;}
+        margin-right: 20%;
+}
