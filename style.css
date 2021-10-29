@@ -1,13 +1,14 @@
-/* just noticed a thin white line on top - to fix */
-/* not so sure those are quite the right colors*/
-
-header {background-color: #ecebeb;
-        text-align: center;}
-#pic {height: 175px;
+header {
+    background-color: #ecebeb;
+    text-align: center;
 }
-/* goes in bonus 
-hr {border-color: peru;}
-*/
-h2 {color: peru;}
-footer {font-size: smaller;
-        text-align: center;}
+#pic {
+    height: 175px;
+}
+h2 {
+    color: peru;
+}
+footer {
+    font-size: smaller;
+    text-align: center;
+}
